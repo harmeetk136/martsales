@@ -43,7 +43,7 @@ The dashboard offers a comprehensive overview of sales performance, customer dem
 
 
 ### 📈 Final Dashboard
-![Looker Studio Dashboard][(https://github.com/harmeetk136/martsales/blob/main/dashboard.png)]
+![Looker Studio Dashboard][https://github.com/harmeetk136/martsales/blob/main/dashboard.png]
 
 🔗 **[View Live Looker Studio Dashboard](https://lookerstudio.google.com/reporting/eb2ac2e0-55a5-4ef8-9bed-04f4f5c04dc3)**
 
