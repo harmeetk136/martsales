@@ -9,25 +9,22 @@ The analysis was carried out in the following phases:
 - Insight Derivation
 
 ## 📁 Tools Used
-MySQL Workbench for querying and data exploration
+- MySQL Workbench for querying and data exploration
+- Looker Studio (Google Data Studio) for building the final dashboard
 
-Looker Studio (Google Data Studio) for building the final dashboard
+## 📌 Key Insights from the Dashboard
+- ✅ Total Sales: $322,966.75
+- ✅ Total Units Sold: 5,510
+- ✅ Total Profit: $15,379.37
+- ✅ Top Product Line: Food and Beverages
+- ✅ Branch with Highest Sales: Branch C
+- ✅ Equal Distribution of Payment Methods
+- ✅ Slightly Higher Sales from Members than Normal Customers
 
-
-📌 Key Insights from the Dashboard
-✅ Total Sales: $322,966.75
-✅ Total Units Sold: 5,510
-✅ Total Profit: $15,379.37
-✅ Top Product Line: Food and Beverages
-✅ Branch with Highest Sales: Branch C
-✅ Equal Distribution of Payment Methods
-✅ Slightly Higher Sales from Members than Normal Customers
-
-📷 Preview
+## 📷 Preview
 🔍 SQL Data Exploration
 
 
-📈 Looker Studio Dashboard
-
-🟢 Live Dashboard Link: View on Looker Studio
+## 📈 Looker Studio Dashboard
+- 🟢 Live Dashboard Link: https://lookerstudio.google.com/reporting/eb2ac2e0-55a5-4ef8-9bed-04f4f5c04dc3
 
