@@ -38,14 +38,15 @@ The dashboard offers a comprehensive overview of sales performance, customer dem
 ---
 
 ## 📷 Visuals
-
 ### 🔍 SQL Data Exploration
-![image](https://github.com/user-attachments/assets/eb6e2b1b-b8e4-4375-afee-1be1dd8e427f)
 
-
+![SQL Exploration](https://github.com/harmeetk136/martsales/assets/fef8f30a-7826-496d-ace7-0173ba861eb7.png)
 
 ### 📈 Final Dashboard
-https://lookerstudio.google.com/reporting/eb2ac2e0-55a5-4ef8-9bed-04f4f5c04dc3
+
+![Looker Studio Dashboard](https://github.com/harmeetk136/martsales/assets/7db93d6b-91b7-4ddc-813b-a0a50b668909.png)
+
+🔗 **[View Live Looker Studio Dashboard](https://lookerstudio.google.com/reporting/eb2ac2e0-55a5-4ef8-9bed-04f4f5c04dc3)**
 
 
 
