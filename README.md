@@ -23,7 +23,7 @@ The analysis was carried out in the following phases:
 
 ## 📷 Preview
 - 🔍 SQL Data Exploration:
-![image](https://github.com/user-attachments/assets/be550c7a-f29c-4415-9cf9-6c41221ea2af)
+-![image](https://github.com/user-attachments/assets/be550c7a-f29c-4415-9cf9-6c41221ea2af)
 
 
 ## 📈 Looker Studio Dashboard
