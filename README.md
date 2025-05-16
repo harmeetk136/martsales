@@ -39,7 +39,8 @@ The dashboard offers a comprehensive overview of sales performance, customer dem
 
 ## 📷 Visuals
 ### 🔍 SQL Data Exploration
-![SQL Exploration](https://github.com/harmeetk136/martsales/blob/main/martsales.sql)
+![SQL Exploration]![image](https://github.com/user-attachments/assets/98f9ed28-fc28-4910-b3d3-e6162c2ad70f)
+
 
 
 ### 📈 Final Dashboard
