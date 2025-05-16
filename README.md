@@ -40,13 +40,12 @@ The dashboard offers a comprehensive overview of sales performance, customer dem
 ## 📷 Visuals
 
 ### 🔍 SQL Data Exploration
+![image](https://github.com/user-attachments/assets/eb6e2b1b-b8e4-4375-afee-1be1dd8e427f)
 
-(https://github.com/user-attachments/assets/993fb914-a403-4726-8cb0-59210d79943b)
 
 
 ### 📈 Final Dashboard
-
-(https://lookerstudio.google.com/reporting/eb2ac2e0-55a5-4ef8-9bed-04f4f5c04dc3)
+https://lookerstudio.google.com/reporting/eb2ac2e0-55a5-4ef8-9bed-04f4f5c04dc3
 
 
 
