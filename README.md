@@ -22,7 +22,8 @@ The analysis was carried out in the following phases:
 - ✅ Slightly Higher Sales from Members than Normal Customers
 
 ## 📷 Preview
-- 🔍 SQL Data Exploration:![image](https://github.com/user-attachments/assets/be550c7a-f29c-4415-9cf9-6c41221ea2af)
+- 🔍 SQL Data Exploration:
+- ![image](https://github.com/user-attachments/assets/be550c7a-f29c-4415-9cf9-6c41221ea2af)
 
 
 ## 📈 Looker Studio Dashboard
