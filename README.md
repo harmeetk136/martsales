@@ -72,13 +72,16 @@ The dashboard offers a comprehensive overview of sales performance, customer dem
 
 ### 🔍 SQL Data Exploration
 
-![SQL Exploration](https://github.com/your-username/your-repo-name/assets/fef8f30a-7826-496d-ace7-0173ba861eb7.png)
+![SQL Exploration]![image](https://github.com/user-attachments/assets/993fb914-a403-4726-8cb0-59210d79943b)
+
 
 ### 📈 Final Dashboard
 
-![Looker Studio Dashboard](https://github.com/your-username/your-repo-name/assets/7db93d6b-91b7-4ddc-813b-a0a50b668909.png)
+![Looker Studio Dashboard](![image](https://github.com/user-attachments/assets/1f7362a3-6aa5-40bc-a4d3-54f6fea616b0)
 
-🔗 **[View Live Looker Studio Dashboard](https://lookerstudio.google.com/reporting/YOUR-DASHBOARD-LINK)**
+
+🔗 **[View Live Looker Studio Dashboard]![image](https://github.com/user-attachments/assets/4237b17f-0095-4fcb-9a41-775a65af18b7)
+**
 
 
 
